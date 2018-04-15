@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper{background-color:#FFFFFF;
+margin-left:auto;
+margin-right:auto;
+width:90%;
+min-width:320px;
+max-width: 1028px; 
+height:auto;
+box-shadow: 5px #1e1e1e;
+padding:10px 20px 10px 20px;
+}
+
+body{
+background-image:url(images/background.jpg)}
+
+h1{text-align:Center;
+margin:0px;
+background-color:#6A1313;
+padding:40px}
+
+nav ul{list-style-type:none;
+float: left;
+margin-top:10px;
+margin-right:10px;
+padding:40px;
+height:570px;
+background-color:#ECF006;
+}
+
+nav a{text-decoration:none;
+padding:3.5em;
+font-weight:bold;
+display:block;
+border:1px solid #e50000;
+color:#FFFF00;
+background-image:url(images/fist.png);
+background-position:left 0;
+margin:10px;
+}
+
+nav a:hover{color:#FAFAF0}
+nav a:visited{color:#FFFFFF}
+nav a:focus{}
+nav a:active{}
+
+main{margin:20px}
+
+P{
+	color:yellow;
+margin:5px;
+	font-size: x-large;
+}
+h2{
+text-align:center}
+
+h4{text-align:center}
+
+Footer{float:clear;
+text-align:center;
+background-color:#6A1313;
+padding:20px;
+border:2px solid #000000}
+
+img{float:right;
+margin:10px}
+
+.video{
+float:clear;
+}
+.gif{
+float:clear;
+}
